@@ -6,7 +6,7 @@
 
 | 文档 | 说明 |
 |------|------|
-| [Spec Coding](/ai-coding/ai-workflow/spec-coding) | 渐进式 AI 编码框架，Spec 驱动开发 |
+| [渐进式AI编码框架](/ai-coding/ai-workflow/渐进式AI编码框架) | Spec 驱动开发，渐进式复杂度设计 |
 
 ## 日常工作流
 

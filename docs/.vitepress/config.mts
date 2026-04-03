@@ -51,7 +51,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: '概述', link: '/ai-coding/ai-workflow/' },
-            { text: 'Spec Coding', link: '/ai-coding/ai-workflow/spec-coding' }
+            { text: '渐进式AI编码框架', link: '/ai-coding/ai-workflow/渐进式AI编码框架' }
           ]
         },
         {

@@ -26,9 +26,21 @@ npm run docs:preview
 
 ```
 docs/
-├── .vitepress/     # VitePress 配置
-├── ai-coding/      # AI Coding 知识
-├── frontend/       # 前端开发知识
-├── tools/          # 工具使用
-└── best-practices/ # 最佳实践
+├── .vitepress/         # VitePress 配置
+├── ai-coding/          # AI Coding
+│   ├── ai-editors/     # AI 编辑器/IDE
+│   ├── prompt-skills/  # Prompt 技巧
+│   ├── ai-workflow/    # AI 辅助工作流
+│   └── ai-frameworks/  # AI 开发框架
+├── frontend/           # 前端开发
+│   ├── frameworks/     # 框架
+│   ├── languages/      # 语言基础
+│   ├── build-tools/    # 构建工具
+│   └── engineering/    # 工程化实践
+├── tools/              # 工具
+│   ├── editors/        # 编辑器
+│   ├── debugging/      # 调试工具
+│   ├── version-control/# 版本控制
+│   └── productivity/   # 效率提升
+└── best-practices/     # 最佳实践
 ```

@@ -25,31 +25,114 @@ export default defineConfig({
       '/ai-coding/': [
         {
           text: 'AI Coding',
+          collapsed: false,
           items: [
-            { text: '概述', link: '/ai-coding/' },
-            { text: 'Cursor', link: '/ai-coding/cursor' },
-            { text: 'Copilot', link: '/ai-coding/copilot' },
-            { text: 'Claude Code', link: '/ai-coding/claude-code' }
+            { text: '概述', link: '/ai-coding/' }
+          ]
+        },
+        {
+          text: 'AI 编辑器/IDE',
+          collapsed: false,
+          items: [
+            { text: 'Cursor', link: '/ai-coding/ai-editors/cursor' },
+            { text: 'Copilot', link: '/ai-coding/ai-editors/copilot' },
+            { text: 'Claude Code', link: '/ai-coding/ai-editors/claude-code' }
+          ]
+        },
+        {
+          text: 'Prompt 技巧',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/ai-coding/prompt-skills/' }
+          ]
+        },
+        {
+          text: 'AI 辅助工作流',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/ai-coding/ai-workflow/' }
+          ]
+        },
+        {
+          text: 'AI 开发框架',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/ai-coding/ai-frameworks/' }
           ]
         }
       ],
       '/frontend/': [
         {
           text: '前端开发',
+          collapsed: false,
           items: [
-            { text: '概述', link: '/frontend/' },
-            { text: 'React', link: '/frontend/react' },
-            { text: 'Vue', link: '/frontend/vue' },
-            { text: 'TypeScript', link: '/frontend/typescript' }
+            { text: '概述', link: '/frontend/' }
+          ]
+        },
+        {
+          text: '框架',
+          collapsed: false,
+          items: [
+            { text: 'React', link: '/frontend/frameworks/react' },
+            { text: 'Vue', link: '/frontend/frameworks/vue' }
+          ]
+        },
+        {
+          text: '语言基础',
+          collapsed: false,
+          items: [
+            { text: 'TypeScript', link: '/frontend/languages/typescript' }
+          ]
+        },
+        {
+          text: '构建工具',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/frontend/build-tools/' }
+          ]
+        },
+        {
+          text: '工程化实践',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/frontend/engineering/' }
           ]
         }
       ],
       '/tools/': [
         {
           text: '工具',
+          collapsed: false,
           items: [
-            { text: '概述', link: '/tools/' },
-            { text: 'VS Code', link: '/tools/vscode' }
+            { text: '概述', link: '/tools/' }
+          ]
+        },
+        {
+          text: '编辑器',
+          collapsed: false,
+          items: [
+            { text: 'VS Code', link: '/tools/editors/vscode' }
+          ]
+        },
+        {
+          text: '调试工具',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/tools/debugging/' }
+          ]
+        },
+        {
+          text: '版本控制',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/tools/version-control/' }
+          ]
+        },
+        {
+          text: '效率提升',
+          collapsed: false,
+          items: [
+            { text: '概述', link: '/tools/productivity/' }
           ]
         }
       ],

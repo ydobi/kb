@@ -2,30 +2,20 @@
 
 开发工具的使用技巧和效率提升方案。
 
-## 工具概览
+## 分类
 
-| 工具 | 用途 | 文档 |
-|------|------|------|
-| VS Code | 代码编辑器 | [VS Code](/tools/vscode) |
+### [编辑器](/tools/editors/)
 
-## 工具分类
+VS Code、JetBrains、Cursor 等编辑器配置和插件。
 
-### 编辑器
-- VS Code 插件推荐
-- JetBrains IDE 配置
-- Vim/Neovim 配置
+### [调试工具](/tools/debugging/)
 
-### 构建工具
-- Vite 配置优化
-- Webpack 性能调优
-- esbuild 使用
+Chrome DevTools、React DevTools 等调试工具使用。
 
-### 调试工具
-- Chrome DevTools
-- React DevTools
-- Vue DevTools
+### [版本控制](/tools/version-control/)
 
-### 版本控制
-- Git 工作流
-- Git 钩子配置
-- Git 别名设置
+Git 工作流、分支管理、代码审查。
+
+### [效率提升](/tools/productivity/)
+
+效率工具、自动化脚本、快捷键。

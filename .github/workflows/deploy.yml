@@ -27,28 +27,20 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 22
-          cache: npm
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 9
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Debug info
-        run: |
-          echo "Node version: $(node -v)"
-          echo "NPM version: $(npm -v)"
-          echo "Node path: $(which node)"
-          echo "NPM path: $(which npm)"
-          echo "Environment:"
-          env | sort
-
-      - name: Configure npm registry
-        run: npm config set registry https://registry.npmjs.org/
-
       - name: Install dependencies
-        run: npm install --loglevel=verbose
+        run: pnpm install
 
       - name: Build with VitePress
-        run: npm run docs:build
+        run: pnpm docs:build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

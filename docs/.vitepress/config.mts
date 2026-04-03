@@ -58,6 +58,10 @@ export default defineConfig({
             {
               text: 'Harness 与 SDD 还有意义吗',
               link: '/ai-coding/ai-workflow/Harness与SDD还有意义吗-何艺萍'
+            },
+            {
+              text: '胶水编程：业务出码实践（天猫）',
+              link: '/ai-coding/ai-workflow/胶水编程业务出码实践-天猫珈文'
             }
           ]
         },

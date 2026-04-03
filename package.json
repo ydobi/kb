@@ -1,0 +1,17 @@
+{
+  "name": "kb",
+  "version": "1.0.0",
+  "description": "AI Coding & 前端开发知识库",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "keywords": ["knowledge-base", "ai-coding", "frontend"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  }
+}

@@ -54,6 +54,10 @@ export default defineConfig({
             {
               text: '2026 渐进式 Spec 实战指南',
               link: '/ai-coding/ai-workflow/2026渐进式Spec实战指南-逸驹'
+            },
+            {
+              text: 'Harness 与 SDD 还有意义吗',
+              link: '/ai-coding/ai-workflow/Harness与SDD还有意义吗-何艺萍'
             }
           ]
         },

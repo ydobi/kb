@@ -2,6 +2,12 @@
 
 利用 AI 提升开发效率的工作流程。
 
+## 文档
+
+| 文档 | 说明 |
+|------|------|
+| [Spec Coding](/ai-coding/ai-workflow/spec-coding) | 渐进式 AI 编码框架，Spec 驱动开发 |
+
 ## 日常工作流
 
 ### 1. 代码编写

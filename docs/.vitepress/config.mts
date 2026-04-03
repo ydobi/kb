@@ -50,7 +50,11 @@ export default defineConfig({
           text: 'AI 辅助工作流',
           collapsed: false,
           items: [
-            { text: '概述', link: '/ai-coding/ai-workflow/' }
+            { text: '概述', link: '/ai-coding/ai-workflow/' },
+            {
+              text: '2026 渐进式 Spec 实战指南',
+              link: '/ai-coding/ai-workflow/2026渐进式Spec实战指南-逸驹'
+            }
           ]
         },
         {

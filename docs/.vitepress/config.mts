@@ -60,6 +60,10 @@ export default defineConfig({
               link: '/ai-coding/ai-workflow/Harness与SDD还有意义吗-何艺萍'
             },
             {
+              text: 'Anthropic：Harness 做减法三件事（探索AGI）',
+              link: '/ai-coding/ai-workflow/Anthropic-Harness做减法三件事-探索AGI'
+            },
+            {
               text: '胶水编程：业务出码实践（天猫）',
               link: '/ai-coding/ai-workflow/胶水编程业务出码实践-天猫珈文'
             }

@@ -138,7 +138,7 @@ git commit -m "docs: 收录文章 <文章标题>"
 
 仅当用户希望一并提交时执行；否则止于文件与配置修改。
 
-**注意**：变更在 `feature/collect-kb-article` 分支上，完成后可创建 PR 合并到 main。
+**注意**：变更在 `feature/collect-kb-article` 分支上，不自动创建 PR。用户可自行决定何时合并到 main。
 
 ## 知识库根目录
 

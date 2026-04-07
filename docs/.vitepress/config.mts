@@ -66,6 +66,10 @@ export default defineConfig({
             {
               text: '胶水编程：业务出码实践（天猫）',
               link: '/ai-coding/ai-workflow/胶水编程业务出码实践-天猫珈文'
+            },
+            {
+              text: '如何构建 Harness：六大组件全解析（李伟山）',
+              link: '/ai-coding/ai-workflow/如何构建Harness六大组件全解析-李伟山'
             }
           ]
         },

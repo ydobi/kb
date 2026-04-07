@@ -164,7 +164,11 @@ export default defineConfig({
         {
           text: '最佳实践',
           items: [
-            { text: '概述', link: '/best-practices/' }
+            { text: '概述', link: '/best-practices/' },
+            {
+              text: '为什么几百行 Markdown 能拿下 45 万 Star（捏人张）',
+              link: '/best-practices/为什么几百行Markdown项目能拿下45万Star-捏人张'
+            }
           ]
         }
       ]

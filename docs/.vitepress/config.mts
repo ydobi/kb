@@ -89,7 +89,11 @@ export default defineConfig({
           text: 'AI 开发框架',
           collapsed: false,
           items: [
-            { text: '概述', link: '/ai-coding/ai-frameworks/' }
+            { text: '概述', link: '/ai-coding/ai-frameworks/' },
+            {
+              text: 'Memory 架构与思考（Ledger / Views / Policy）',
+              link: '/ai-coding/ai-frameworks/Memory架构与思考-Ledger-Views-Policy'
+            }
           ]
         }
       ],
@@ -106,7 +110,11 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'React', link: '/frontend/frameworks/react' },
-            { text: 'Vue', link: '/frontend/frameworks/vue' }
+            { text: 'Vue', link: '/frontend/frameworks/vue' },
+            {
+              text: 'AndroidX Remote Compose（服务端驱动 UI）',
+              link: '/frontend/frameworks/AndroidX-Remote-Compose服务端驱动UI'
+            }
           ]
         },
         {

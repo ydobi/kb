@@ -13,6 +13,20 @@ description: 将 URL 文章收录到本仓库 VitePress 知识库：抓取全文
 
 ## 执行步骤
 
+### 0. 切换分支
+
+在开始收录前，确保在 `feature/collect-kb-article` 分支上操作：
+
+```bash
+# 如果分支已存在，切换到该分支
+git checkout feature/collect-kb-article
+
+# 如果分支不存在，从 main 创建并切换
+git checkout -b feature/collect-kb-article main
+```
+
+如果当前在其他分支上有未提交的更改，先提示用户处理。
+
 ### 1. 获取内容
 
 使用可用的网页抓取能力（如 WebFetch / 浏览器 MCP）获取用户提供的链接内容，提取：
@@ -123,6 +137,8 @@ git commit -m "docs: 收录文章 <文章标题>"
 ```
 
 仅当用户希望一并提交时执行；否则止于文件与配置修改。
+
+**注意**：变更在 `feature/collect-kb-article` 分支上，不自动创建 PR。用户可自行决定何时合并到 main。
 
 ## 知识库根目录
 

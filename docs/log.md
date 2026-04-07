@@ -15,6 +15,12 @@
 - Karpathy Agent 与 Obsidian 个人知识库（逛逛 GitHub）
   - 分类：ai-coding/ai-workflow
   - 影响：触发本次架构调整
+- 「纯干货」几万字都讲不明白的Memory架构与思考（阿里妹导读；文首声明为作者个人实践与观点）
+  - 分类：ai-coding/ai-frameworks
+  - 来源：[「纯干货」几万字都讲不明白的Memory架构与思考](https://mp.weixin.qq.com/s/bl77_Mb85C4AKe8h4__V6Q)
+- AndroidX Remote Compose：服务端下发原生 UI（Android技术圈HPro）
+  - 分类：frontend/frameworks
+  - 来源：[Google 藏大招！AndroidX 悄悄上线 Remote Compose…](https://mp.weixin.qq.com/s/cChnHus8VqGnDwmqAY-aOw)
 
 ---
 

@@ -22,6 +22,10 @@ export default defineConfig({
     ],
 
     sidebar: {
+      '/': [
+        { text: '首页', link: '/' },
+        { text: '日志', link: '/log' }
+      ],
       '/ai-coding/': [
         {
           text: 'AI Coding',

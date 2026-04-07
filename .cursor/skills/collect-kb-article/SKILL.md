@@ -102,6 +102,19 @@ description: 将 URL 文章收录到本仓库 VitePress 知识库：抓取全文
 
 更新 `docs/.vitepress/config.mts` 中对应 `sidebar` 分组，加入新文档的 `text` 与 `link`（与 VitePress 现有 `base: '/kb/'` 下的路径约定一致）。
 
+### 6.1 更新日志
+
+在 `docs/log.md` 中追加录入记录：
+
+```markdown
+## YYYY-MM-DD
+
+**收录**
+- 文章标题（作者）
+  - 分类：路径（如 ai-coding/ai-workflow）
+  - 来源：[原标题](URL)
+```
+
 ### 7. 提交变更（用户未拒绝时）
 
 ```bash

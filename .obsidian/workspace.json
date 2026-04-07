@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "29b27b1673984b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e46570ef3cc1e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8bef3ecd1759ed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/ai-coding/ai-workflow/Karpathy-Agent与Obsidian个人知识库-逛逛GitHub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Karpathy-Agent与Obsidian个人知识库-逛逛GitHub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0caeb707125f7d93",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebf5903f1a9e9f92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e6d3b297cd42275",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9872c2902e602ac7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c6c6b505278afd12",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c342903bdc90db00",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b1821e3a05164d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42012ce396c17b81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/ai-coding/ai-workflow/Karpathy-Agent与Obsidian个人知识库-逛逛GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Karpathy-Agent与Obsidian个人知识库-逛逛GitHub 的反向链接列表"
+            }
+          },
+          {
+            "id": "d5a83dda73c69afd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/ai-coding/ai-workflow/Karpathy-Agent与Obsidian个人知识库-逛逛GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Karpathy-Agent与Obsidian个人知识库-逛逛GitHub 的出链列表"
+            }
+          },
+          {
+            "id": "8b11c8d8d82488aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "24941a61ed1f06e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "c1bf322fe4e6aa46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/ai-coding/ai-workflow/Karpathy-Agent与Obsidian个人知识库-逛逛GitHub.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Karpathy-Agent与Obsidian个人知识库-逛逛GitHub 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "f8bef3ecd1759ed6",
+  "lastOpenFiles": [
+    "docs/log.md",
+    "raw/papers",
+    "raw/images",
+    "raw/articles",
+    "raw",
+    "CLAUDE.md",
+    "README.md",
+    "docs/tools/version-control/index.md",
+    "docs/tools/productivity/index.md",
+    "docs/tools/editors/vscode.md",
+    "docs/tools/editors/index.md",
+    "docs/tools/debugging/index.md",
+    "docs/frontend/build-tools/index.md",
+    "docs/ai-coding/ai-workflow/2026渐进式Spec实战指南-逸驹.md"
+  ]
+}

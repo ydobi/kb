@@ -70,6 +70,14 @@ export default defineConfig({
             {
               text: 'Karpathy：Agent + Obsidian 个人知识库（逛逛 GitHub）',
               link: '/ai-coding/ai-workflow/Karpathy-Agent与Obsidian个人知识库-逛逛GitHub'
+            },
+            {
+              text: 'Superset：多 Agent 并行编排（前端新视野）',
+              link: '/ai-coding/ai-workflow/Superset多Agent并行编排-前端新视野'
+            },
+            {
+              text: '如何构建 Harness：六大组件全解析（李伟山）',
+              link: '/ai-coding/ai-workflow/如何构建Harness六大组件全解析-李伟山'
             }
           ]
         },
@@ -160,7 +168,11 @@ export default defineConfig({
         {
           text: '最佳实践',
           items: [
-            { text: '概述', link: '/best-practices/' }
+            { text: '概述', link: '/best-practices/' },
+            {
+              text: '为什么几百行 Markdown 能拿下 45 万 Star（捏人张）',
+              link: '/best-practices/为什么几百行Markdown项目能拿下45万Star-捏人张'
+            }
           ]
         }
       ]

@@ -68,6 +68,10 @@ export default defineConfig({
               link: '/ai-coding/ai-workflow/胶水编程业务出码实践-天猫珈文'
             },
             {
+              text: 'Karpathy：Agent + Obsidian 个人知识库（逛逛 GitHub）',
+              link: '/ai-coding/ai-workflow/Karpathy-Agent与Obsidian个人知识库-逛逛GitHub'
+            },
+            {
               text: 'Superset：多 Agent 并行编排（前端新视野）',
               link: '/ai-coding/ai-workflow/Superset多Agent并行编排-前端新视野'
             },

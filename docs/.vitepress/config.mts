@@ -82,6 +82,10 @@ export default defineConfig({
             {
               text: '如何构建 Harness：六大组件全解析（李伟山）',
               link: '/ai-coding/ai-workflow/如何构建Harness六大组件全解析-李伟山'
+            },
+            {
+              text: 'SDD-RIPER 团队落地指南（一周内跑通大模型编程）',
+              link: '/ai-coding/ai-workflow/SDD-RIPER团队落地指南-一周内跑通大模型编程'
             }
           ]
         },

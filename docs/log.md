@@ -7,6 +7,9 @@
 ## 2026-04-12
 
 **收录**
+- graphify：代码库即知识图谱，AI 助手的长期记忆层（Git Trend）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[graphify：代码库即知识图谱，AI 助手的长期记忆层](https://mp.weixin.qq.com/s/ILOxflySkofmbmVIuDc2rQ)
 - 5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题（逛逛 GitHub）
   - 分类：ai-coding/ai-workflow
   - 来源：[5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。](https://mp.weixin.qq.com/s/uU1QR5H2xCuNSQD1KFd_Nw)

@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-04-12
+
+**收录**
+- 5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题（逛逛 GitHub）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。](https://mp.weixin.qq.com/s/uU1QR5H2xCuNSQD1KFd_Nw)
+
+---
+
+## 2026-04-09
+
+**收录**
+- SDD-RIPER 团队落地指南：如何让整个团队在一周内跑通大模型编程（阿里妹导读；文首声明为作者个人实践与观点）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[SDD-RIPER 团队落地指南：如何让整个团队在一周内跑通大模型编程](https://mp.weixin.qq.com/s/7-9MkYxvt3brpssxv3tOvg)
+
+---
+
 ## 2026-04-07
 
 **架构调整**

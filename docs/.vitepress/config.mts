@@ -76,12 +76,20 @@ export default defineConfig({
               link: '/ai-coding/ai-workflow/Karpathy-Agent与Obsidian个人知识库-逛逛GitHub'
             },
             {
+              text: 'GSD：多 Agent 上下文工程框架（逛逛 GitHub）',
+              link: '/ai-coding/ai-workflow/GSD多Agent上下文工程框架-逛逛GitHub'
+            },
+            {
               text: 'Superset：多 Agent 并行编排（前端新视野）',
               link: '/ai-coding/ai-workflow/Superset多Agent并行编排-前端新视野'
             },
             {
               text: '如何构建 Harness：六大组件全解析（李伟山）',
               link: '/ai-coding/ai-workflow/如何构建Harness六大组件全解析-李伟山'
+            },
+            {
+              text: 'SDD-RIPER 团队落地指南（一周内跑通大模型编程）',
+              link: '/ai-coding/ai-workflow/SDD-RIPER团队落地指南-一周内跑通大模型编程'
             }
           ]
         },

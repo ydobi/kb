@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-04-12
+
+**收录**
+- 5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题（逛逛 GitHub）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。](https://mp.weixin.qq.com/s/uU1QR5H2xCuNSQD1KFd_Nw)
+
+---
+
 ## 2026-04-09
 
 **收录**

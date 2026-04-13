@@ -90,6 +90,10 @@ export default defineConfig({
             {
               text: 'SDD-RIPER 团队落地指南（一周内跑通大模型编程）',
               link: '/ai-coding/ai-workflow/SDD-RIPER团队落地指南-一周内跑通大模型编程'
+            },
+            {
+              text: 'AI 编程能力边界：Spec Coding 与 Claude Code（得物）',
+              link: '/ai-coding/ai-workflow/AI编程能力边界探索-SpecCoding-ClaudeCode-得物阳凯'
             }
           ]
         },

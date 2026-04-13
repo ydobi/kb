@@ -90,6 +90,10 @@ export default defineConfig({
             {
               text: 'SDD-RIPER 团队落地指南（一周内跑通大模型编程）',
               link: '/ai-coding/ai-workflow/SDD-RIPER团队落地指南-一周内跑通大模型编程'
+            },
+            {
+              text: 'graphify：代码库即知识图谱（Git Trend）',
+              link: '/ai-coding/ai-workflow/graphify代码库即知识图谱-AI助手长期记忆层-GitTrend'
             }
           ]
         },

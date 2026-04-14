@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-04-13
+
+**收录**
+- Superpowers 实测分析：从小游戏案例看其 14 个 Skills 如何协同（j5land）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[Superpowers 实测分析：从小游戏案例看其 14 个 Skills 如何协同](https://mp.weixin.qq.com/s/tvfrtvyiDP8injEvuDW-ew)
+
+---
+
 ## 2026-04-12
 
 **收录**

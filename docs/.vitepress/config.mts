@@ -94,6 +94,10 @@ export default defineConfig({
             {
               text: 'graphify：代码库即知识图谱（Git Trend）',
               link: '/ai-coding/ai-workflow/graphify代码库即知识图谱-AI助手长期记忆层-GitTrend'
+            },
+            {
+              text: 'Superpowers 实测：小游戏与 14 个 Skills（j5land）',
+              link: '/ai-coding/ai-workflow/Superpowers实测分析-小游戏案例与14个Skills协同-j5land'
             }
           ]
         },

@@ -92,6 +92,10 @@ export default defineConfig({
               link: '/ai-coding/ai-workflow/SDD-RIPER团队落地指南-一周内跑通大模型编程'
             },
             {
+              text: 'AI 编程能力边界：Spec Coding 与 Claude Code（得物）',
+              link: '/ai-coding/ai-workflow/AI编程能力边界探索-SpecCoding-ClaudeCode-得物阳凯'
+            },
+            {
               text: 'graphify：代码库即知识图谱（Git Trend）',
               link: '/ai-coding/ai-workflow/graphify代码库即知识图谱-AI助手长期记忆层-GitTrend'
             },

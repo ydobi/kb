@@ -10,12 +10,18 @@
 - AI 编程能力边界探索：基于 Claude Code 的 Spec Coding 项目实战｜得物技术（阳凯）
   - 分类：ai-coding/ai-workflow
   - 来源：[AI 编程能力边界探索：基于 Claude Code 的 Spec Coding 项目实战｜得物技术](https://mp.weixin.qq.com/s/1Oi7YhMgcPp9gQAWPndXWA)
+- Superpowers 实测分析：从小游戏案例看其 14 个 Skills 如何协同（j5land）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[Superpowers 实测分析：从小游戏案例看其 14 个 Skills 如何协同](https://mp.weixin.qq.com/s/tvfrtvyiDP8injEvuDW-ew)
 
 ---
 
 ## 2026-04-12
 
 **收录**
+- graphify：代码库即知识图谱，AI 助手的长期记忆层（Git Trend）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[graphify：代码库即知识图谱，AI 助手的长期记忆层](https://mp.weixin.qq.com/s/ILOxflySkofmbmVIuDc2rQ)
 - 5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题（逛逛 GitHub）
   - 分类：ai-coding/ai-workflow
   - 来源：[5 天 5 万收藏的 GitHub 项目解决了 Claude Code 这个烦人问题。](https://mp.weixin.qq.com/s/uU1QR5H2xCuNSQD1KFd_Nw)

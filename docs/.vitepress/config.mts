@@ -102,6 +102,10 @@ export default defineConfig({
             {
               text: 'Superpowers 实测：小游戏与 14 个 Skills（j5land）',
               link: '/ai-coding/ai-workflow/Superpowers实测分析-小游戏案例与14个Skills协同-j5land'
+            },
+            {
+              text: 'awesome-design-md：DESIGN.md 与 AI 前端审美（图灵沿界）',
+              link: '/ai-coding/ai-workflow/awesome-design-md与DESIGN-md-AI前端审美规格-图灵沿界'
             }
           ]
         },

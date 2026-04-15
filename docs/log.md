@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-04-15
+
+**收录**
+- 「Claude Code 写前端有多丑？」awesome-design-md 与 DESIGN.md（图灵沿界）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[「Claude Code 写前端有多丑？」一个 Markdown 文件夹几天狂揽近 2 万 Star，把 Apple、Stripe 的审美直接灌进 AI](https://mp.weixin.qq.com/s/ozcGDpFnnQUU9oJVxVPcWA)
+
+---
+
 ## 2026-04-13
 
 **收录**

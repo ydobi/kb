@@ -106,6 +106,10 @@ export default defineConfig({
             {
               text: 'awesome-design-md：DESIGN.md 与 AI 前端审美（图灵沿界）',
               link: '/ai-coding/ai-workflow/awesome-design-md与DESIGN-md-AI前端审美规格-图灵沿界'
+            },
+            {
+              text: 'CLI 是什么？为什么大厂集体卷命令行（程序员鱼皮）',
+              link: '/ai-coding/ai-workflow/CLI是什么为什么大厂集体卷命令行-程序员鱼皮'
             }
           ]
         },

@@ -40,7 +40,11 @@ export default defineConfig({
           items: [
             { text: 'Cursor', link: '/ai-coding/ai-editors/cursor' },
             { text: 'Copilot', link: '/ai-coding/ai-editors/copilot' },
-            { text: 'Claude Code', link: '/ai-coding/ai-editors/claude-code' }
+            { text: 'Claude Code', link: '/ai-coding/ai-editors/claude-code' },
+            {
+              text: 'Claude Code 并行开发完全指南（Subagents / Teams / Worktree）',
+              link: '/ai-coding/ai-editors/Claude-Code并行开发完全指南-Subagents-AgentTeams-Git-Worktree与工作流编排实战'
+            }
           ]
         },
         {

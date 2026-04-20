@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-04-20
+
+**收录**
+- Claude Code 并行开发完全指南：Subagents + Agent Teams + Git Worktree + 工作流编排实战（智享科技社）
+  - 分类：ai-coding/ai-editors
+  - 来源：[Claude Code 并行开发完全指南：Subagents + Agent Teams + Git Worktree + 工作流编排实战](https://mp.weixin.qq.com/s/g8wc2ULicc0djeOkRN5WvA)
+
+---
+
 ## 2026-04-15
 
 **收录**

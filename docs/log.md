@@ -7,6 +7,9 @@
 ## 2026-04-20
 
 **收录**
+- 强烈推荐！这个 Skill 画架构图质量超高，一句话出图（Nodejs技术栈）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[强烈推荐！这个 Skill 画架构图质量超高，一句话出图](https://mp.weixin.qq.com/s/qzevOsuhez1Q0T9Ae2B_Kw)
 - Claude Code 并行开发完全指南：Subagents + Agent Teams + Git Worktree + 工作流编排实战（智享科技社）
   - 分类：ai-coding/ai-editors
   - 来源：[Claude Code 并行开发完全指南：Subagents + Agent Teams + Git Worktree + 工作流编排实战](https://mp.weixin.qq.com/s/g8wc2ULicc0djeOkRN5WvA)

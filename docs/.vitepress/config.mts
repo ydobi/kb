@@ -110,6 +110,10 @@ export default defineConfig({
             {
               text: 'awesome-design-md：DESIGN.md 与 AI 前端审美（图灵沿界）',
               link: '/ai-coding/ai-workflow/awesome-design-md与DESIGN-md-AI前端审美规格-图灵沿界'
+            },
+            {
+              text: 'architecture-diagram-generator：一句话出架构图（Nodejs技术栈）',
+              link: '/ai-coding/ai-workflow/architecture-diagram-generator-Skill一句话出架构图-Nodejs技术栈'
             }
           ]
         },

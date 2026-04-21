@@ -7,6 +7,10 @@
 ## 2026-04-20
 
 **收录**
+- CLI 是什么？为什么大厂突然集体卷命令行？（程序员鱼皮）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[既然 AI Coding 有了 IDE，为什么还要有 CLI？](https://www.zhihu.com/question/1954908418063185706/answer/2029156876449792078)
+  - 交叉引用（作者站点同文）：[CLI 是什么？为什么大厂突然集体卷命令行？](https://www.codefather.cn/post/2045392231212281858)
 - Claude Code 并行开发完全指南：Subagents + Agent Teams + Git Worktree + 工作流编排实战（智享科技社）
   - 分类：ai-coding/ai-editors
   - 来源：[Claude Code 并行开发完全指南：Subagents + Agent Teams + Git Worktree + 工作流编排实战](https://mp.weixin.qq.com/s/g8wc2ULicc0djeOkRN5WvA)

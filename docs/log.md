@@ -7,6 +7,9 @@
 ## 2026-04-20
 
 **收录**
+- 强烈推荐！这个 Skill 画架构图质量超高，一句话出图（Nodejs技术栈）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[强烈推荐！这个 Skill 画架构图质量超高，一句话出图](https://mp.weixin.qq.com/s/qzevOsuhez1Q0T9Ae2B_Kw)
 - CLI 是什么？为什么大厂突然集体卷命令行？（程序员鱼皮）
   - 分类：ai-coding/ai-workflow
   - 来源：[既然 AI Coding 有了 IDE，为什么还要有 CLI？](https://www.zhihu.com/question/1954908418063185706/answer/2029156876449792078)

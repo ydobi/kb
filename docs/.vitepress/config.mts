@@ -112,6 +112,10 @@ export default defineConfig({
               link: '/ai-coding/ai-workflow/awesome-design-md与DESIGN-md-AI前端审美规格-图灵沿界'
             },
             {
+              text: 'architecture-diagram-generator：一句话出架构图（Nodejs技术栈）',
+              link: '/ai-coding/ai-workflow/architecture-diagram-generator-Skill一句话出架构图-Nodejs技术栈'
+            },
+            {
               text: 'CLI 是什么？为什么大厂集体卷命令行（程序员鱼皮）',
               link: '/ai-coding/ai-workflow/CLI是什么为什么大厂集体卷命令行-程序员鱼皮'
             }

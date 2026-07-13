@@ -4,6 +4,15 @@
 
 ---
 
+## 2026-07-13
+
+**收录**
+- 阿里云刚发布的 AgentLoop 是什么？（望宸）
+  - 分类：ai-coding/ai-workflow
+  - 来源：[阿里云刚发布的 AgentLoop 是什么？](https://mp.weixin.qq.com/s/mU5x-_EVHPRzxU6PNYdI5g)
+
+---
+
 ## 2026-04-20
 
 **收录**

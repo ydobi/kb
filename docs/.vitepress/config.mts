@@ -114,6 +114,10 @@ export default defineConfig({
             {
               text: 'CLI 是什么？为什么大厂集体卷命令行（程序员鱼皮）',
               link: '/ai-coding/ai-workflow/CLI是什么为什么大厂集体卷命令行-程序员鱼皮'
+            },
+            {
+              text: '阿里云 AgentLoop 是什么？（望宸）',
+              link: '/ai-coding/ai-workflow/阿里云AgentLoop是什么-望宸'
             }
           ]
         },
